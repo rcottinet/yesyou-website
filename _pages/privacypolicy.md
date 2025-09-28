@@ -7,7 +7,7 @@ include_in_header: true
 
 # Privacy Policy
 
-_Last updated: September 28, 2025_
+Last updated: September 28, 2025
 
 YesYou! ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application YesYou!.
 
