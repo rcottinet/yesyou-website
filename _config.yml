@@ -115,3 +115,6 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Site configuration for GitHub Pages
+baseurl: "/yesyou-website"
