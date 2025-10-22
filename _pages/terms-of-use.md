@@ -22,10 +22,7 @@ Some parts of the Service are billed on a subscription basis ("Subscription(s)")
 
 ### Subscription Pricing
 
-- **Monthly Subscription**: [Your monthly price]
-- **Annual Subscription**: [Your annual price]
-
-Prices are clearly displayed in the app before purchase.
+Subscription prices are clearly displayed in the app before purchase and may vary by region. Current pricing is shown at the point of purchase.
 
 ### Free Trial
 
