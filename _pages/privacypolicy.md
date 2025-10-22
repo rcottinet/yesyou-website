@@ -4,22 +4,29 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-
 # Privacy Policy
 
-Last updated: September 28, 2025
+Last updated: October 22, 2025
 
-YesYou! ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application YesYou!.
+YesYou! ("we", "our", "us") is committed to protecting your privacy.
+This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application YesYou!.
 
 ## Information We Collect
 
 We do not collect personally identifiable information from you.
 The app is designed to deliver affirmations and provide a simple, positive experience without requiring personal data.
 
+**We do not track users across apps or websites owned by other companies.**
+
+## Notifications
+
+If you enable notifications, we use them solely to deliver your daily affirmations. Notification preferences are stored locally on your device and are not transmitted to our servers.
+
 ## Third-Party Services
 
-We use RevenueCat to manage in-app purchases and subscriptions. RevenueCat may collect limited information required to process transactions and maintain your subscription status.
-For details on RevenueCat’s practices, please review their Privacy Policy: https://www.revenuecat.com/privacy
+We use RevenueCat to manage in-app purchases and subscriptions.
+RevenueCat may collect limited information required to process transactions and maintain your subscription status.
+For details on RevenueCat's practices, please review their Privacy Policy: https://www.revenuecat.com/privacy
 
 ## How We Use Information
 
@@ -28,17 +35,21 @@ Any information processed through RevenueCat is used solely for:
 - Managing your subscription and purchases
 - Ensuring proper app functionality
 
-We do not use your data for advertising or profiling.
+**We do not:**
+- Use your data for advertising
+- Track your activity across other apps or websites
+- Share your data with third parties for their marketing purposes
+- Create user profiles for advertising or marketing
 
 ## Data Retention
 
-We do not store personal data. Any purchase or subscription information is retained only as long as necessary by RevenueCat to provide their services.
+We do not store personal data on our servers. Any purchase or subscription information is retained only as long as necessary by RevenueCat to provide their services.
 
 ## Your Rights
 
-Since we do not collect or store personal data directly, requests regarding data access, correction, or deletion should be directed to RevenueCat.
+Since we do not collect or store personal data directly, requests regarding data access, correction, or deletion should be directed to RevenueCat at privacy@revenuecat.com.
 
-## Children’s Privacy
+## Children's Privacy
 
 Our app is intended for a general audience and does not knowingly collect any information from children under the age of 13.
 
@@ -48,5 +59,4 @@ We may update this Privacy Policy from time to time. Updates will be posted here
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, you can contact us at:
-romancottinet+yesyousupport@gmail.com
+If you have any questions or concerns about this Privacy Policy, you can contact us at: romancottinet+yesyousupport@gmail.com
